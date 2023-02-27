@@ -1,6 +1,6 @@
 <img align='right' src="computer.svg">
 
-# Hi there 👋
+# Hi there <img align='right' src="hello.svg">
 
 ### About me
 
