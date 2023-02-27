@@ -1,4 +1,4 @@
-<img align='right' width="400" src="computer.svg" width="180">
+<img align='right' src="computer.svg">
 
 # Hi there 👋
 
