@@ -1,6 +1,6 @@
 <img align='right' src="computer.svg">
 
-# Hi there <img align='right' src="hello.svg">
+<h1>Hi there <img src="hello.svg"></h1>
 
 ### About me
 
