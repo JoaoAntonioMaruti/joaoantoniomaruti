@@ -5,6 +5,7 @@
         .container {
           background: #cbbbf0;
           display: flex;
+          width: 600px;
           align-items: center;
           justify-content: center;
           height: 400px;
