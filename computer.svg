@@ -15,6 +15,9 @@
         }
         .button {
           position: absolute;
+          display: flex;
+          align-items: center;
+          justify-content: center;
           bottom: 30px;
           color: #000;
           background: #fff;
@@ -31,6 +34,9 @@
           bottom: 40px;
           margin-left: 20px;
           box-shadow: -10px 10px 0px 0 rgba(0,0,0,0.75);
+        }
+        .button > img {
+          margin-right: 8px;
         }
         .computer {
           width: 100px;
@@ -228,7 +234,10 @@
         <div class="keyboard"></div>
         <div class="mouse"></div>
         </div>
-        <a href="https://codepen.io/JoaoAntonioMaruti/pen/poymBpq" target="_blank" class="button">Code avaliable on Codepen</a>
+        <a href="https://codepen.io/JoaoAntonioMaruti/pen/poymBpq" target="_blank" class="button">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="graphql" width="10" height="10"/>        
+          Avaliable on Codepen
+        </a>
       </div>
     </div>
   </foreignObject>
