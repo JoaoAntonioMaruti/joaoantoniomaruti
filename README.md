@@ -1,6 +1,4 @@
-<a href="https://codepen.io/JoaoAntonioMaruti/pen/poymBpq" target="_blank">
-  <img align='right' src="computer.svg">
-</a>
+<img align='right' src="computer.svg">
 
 <h1>Hi there <img src="hello.svg"></h1>
 
