@@ -12,7 +12,6 @@
           transform: scale(1.2);
           flex-direction: column;
         }
-
         .no-signal {
           width: 400px;
           height: 400px;
@@ -99,7 +98,6 @@
           background: #fff;
           width: 16.66%;
         }
-
         .computer {
           width: 100px;
           height: 130px;
@@ -107,7 +105,7 @@
           position: relative;
           list-style: none;
           border-radius: 4px;
-          margin: 0 40px;
+          margin: -60px 40px 0 40px;
         }
         .computer .screen {
           width: 40px;
@@ -232,7 +230,6 @@
           bottom: -22px;
           transform: perspective(400px) rotateX(-55deg);
         }
-
         .mouse {
           transform: perspective(40px) rotateX(70deg);
           width: 15px;
